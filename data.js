@@ -1,5 +1,6 @@
 // Dati del sito. Il template (index.html) legge solo questo file.
 window.SITE = {
+  layout: "trattoria",
   name: "Antica Trattoria del Sole",
   shortName: "Trattoria del Sole",
   tagline: "Trattoria · Ristorante",
